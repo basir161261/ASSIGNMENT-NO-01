@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+    padding: 0px; 
+    font-family: 'Oswald', sans-serif;
+}
+ul {
+    margin-right: 200px;
+    height: 50px;   
+}
+li{
+    float: right;
+    list-style: none;
+    padding: 10px;   
+    display: block;
+    margin: auto;
+    font-size: 20px;
+}
+section{
+    height: 600px;
+    overflow: hidden;
+    display: block;
+}
+h1{
+    font-size: 60px;
+    color: #363958;
+}
+.name-highlight{
+    color: #FF8367;
+}
+.half-width{
+    width: 30%;
+    margin: 5%;
+    padding-left: 4%;
+    float: left;   
+}
+.half-width img{
+    width: 100%;
+}
+.link-batton{
+    background-color: #F76861;
+    padding: 15px 40px;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+}
+.link-batton-cv{
+    background-color: #F66460;
+    padding: 15px 40px;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+}
+.full-contain{
+    height: 700px;
+    background-color:ghostwhite;
+}
+.text-highlihgt{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.lastet-highlihgt{
+    color: #F46060;
+}
+.card-section{
+    
+    margin:10% ;
+   
+}
+.cards{
+    width: 25%;
+    background-color:#FFFFFF ;
+    margin-left: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px;
+}
+.image img{
+    width: 100%;    
+}
+.title{
+    text-align: center;
+    color:peru;
+}
+.des p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 20px;
+    
+}
+
+.last-image img{
+    height: 150px;
+    width: 800px;
+    margin: auto;
+    display: block;
+    padding-bottom: 50px;
+    padding-top: 100px;
+    
+
+}
+.work-inq{
+    color: hotpink;
+    font-size: 40px;
+}
+.text-footer{
+    text-align: center;
+}
+
+
+
+
